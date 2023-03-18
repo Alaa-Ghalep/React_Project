@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React_Project/static/css/main.73db288d.css",
+    "main.js": "/React_Project/static/js/main.34a4f77e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React_Project/static/js/787.28cb0dcd.chunk.js",
+    "static/media/f5.png": "/React_Project/static/media/f5.bdb24a6bfa2491d23209.png",
+    "static/media/f1.png": "/React_Project/static/media/f1.17f63e75a79fc7a8740c.png",
+    "static/media/f6.png": "/React_Project/static/media/f6.b64aa1807ae7647f37c8.png",
+    "static/media/f3.png": "/React_Project/static/media/f3.326f89cfe13b0082e3b5.png",
+    "static/media/f4.png": "/React_Project/static/media/f4.25a01dcd448e21154653.png",
+    "static/media/hero-bg.jpg": "/React_Project/static/media/hero-bg.ac596bd69d11364d39b2.jpg",
+    "static/media/f9.png": "/React_Project/static/media/f9.ee51242ed11eb5c32770.png",
+    "static/media/f7.png": "/React_Project/static/media/f7.8bd1009d295dee9d0e59.png",
+    "static/media/f8.png": "/React_Project/static/media/f8.bbf75915b57d5c41997b.png",
+    "static/media/f2.png": "/React_Project/static/media/f2.9157aed0d4393c8ed4ab.png",
+    "static/media/client2.jpg": "/React_Project/static/media/client2.8736889fabe2c295c571.jpg",
+    "static/media/client1.jpg": "/React_Project/static/media/client1.5f8bbe6bde7126f7efd5.jpg",
+    "index.html": "/React_Project/index.html",
+    "main.73db288d.css.map": "/React_Project/static/css/main.73db288d.css.map",
+    "main.34a4f77e.js.map": "/React_Project/static/js/main.34a4f77e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React_Project/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73db288d.css",
+    "static/js/main.34a4f77e.js"
+  ]
+}
